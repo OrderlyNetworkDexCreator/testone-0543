@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "TEST1111",
   "VITE_SEO_SITE_DESCRIPTION": "TEST2222",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/testone-0543/",
+  "VITE_SEO_SITE_URL": "https://dslksfjsdf.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@TEST4444",
